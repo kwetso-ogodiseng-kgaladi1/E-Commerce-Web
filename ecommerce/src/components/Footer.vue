@@ -37,7 +37,7 @@
     <span class="text-caption">26003</span><br>
     <span class="text-caption">Contact: 304-559-3029</span><br>
     <span class="text-caption">304-650-2694</span><br>
-    <span class="text-caption">Email: aaeidapro@gmail.com</span>
+    <span class="text-caption">Email: kgaladikwetso@gmail.com</span>
   </v-col>
   <v-col col="12" sm="3">
     <h4 class="mt-2">Location</h4>
