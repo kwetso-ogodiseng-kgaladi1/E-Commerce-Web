@@ -19,24 +19,20 @@
     <span class="text-caption">Instagram</span><br>
     <span class="text-caption">Whatsapp</span><br>
     <span class="text-caption">Youtube</span><br>
-    <span class="text-caption">Pinterest</span>
   </v-col>
   <v-col col="12" sm="3">
     <h4 class="mt-2">More About Store</h4>
     <span class="text-caption">Multiple Branches</span><br>
     <span class="text-caption">Take Franchise</span><br>
-    <span class="text-caption">Scheduled Offres</span><br>
+    <span class="text-caption">Scheduled Offers</span><br>
     <span class="text-caption">Visit Kitchen</span><br>
     <span class="text-caption">Meet Our Team</span><br>
-    <span class="text-caption">More Links</span>
   </v-col>
   <v-col col="12" sm="3">
     <h4 class="mt-2">Offline Store</h4>
-    <span class="text-caption">Address :3548 Columbia</span><br>
-    <span class="text-caption">Wheeling, West Virginia</span><br>
-    <span class="text-caption">26003</span><br>
-    <span class="text-caption">Contact: 304-559-3029</span><br>
-    <span class="text-caption">304-650-2694</span><br>
+    <span class="text-caption">North West, Rustenburg</span><br>
+    <span class="text-caption">0393</span><br>
+    <span class="text-caption">Contact: +27 72 461 6904 </span><br>
     <span class="text-caption">Email: kgaladikwetso@gmail.com</span>
   </v-col>
   <v-col col="12" sm="3">
@@ -47,7 +43,7 @@
     </div>
 
     <div class="px-4 py-2 bgTop text-center w-100">
-      <v-icon class="mr-2">mdi mdi-copyright</v-icon>{{ new Date().getFullYear() }} — <strong>AAE IdeaPro</strong>
+      <v-icon class="mr-2">mdi mdi-copyright</v-icon>{{ new Date().getFullYear() }} — <strong>Kwetso's Inn</strong>
     </div>
 
     </v-footer>
