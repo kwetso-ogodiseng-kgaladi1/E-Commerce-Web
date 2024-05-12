@@ -1,17 +1,16 @@
 <template>
   <v-system-bar color="#1F1F1F">
-    <span>Welcome to Foodie</span>
+    <span>Welcome to Godi's kitchen</span>
     <v-spacer></v-spacer>
     <v-icon icon="mdi mdi-facebook" class="ms-2"></v-icon>
     <v-icon icon="mdi mdi-linkedin" class="ms-2"></v-icon>
-    <v-icon icon="mdi mdi-pinterest" class="ms-2"></v-icon>
     <v-icon icon="mdi mdi-twitter" class="ms-2"></v-icon>
     <v-icon icon="mdi mdi-instagram" class="ms-2"></v-icon>
     <v-icon icon="mdi mdi-youtube" class="ms-2"></v-icon>
   </v-system-bar>
   <v-app-bar height="100" flat color="#1F1F1F">
     <v-app-bar-title>
-      <h2>Foodie</h2>
+      <h2>Godi's Inn</h2>
     </v-app-bar-title>
     <v-spacer></v-spacer>
     <v-card
@@ -69,9 +68,9 @@
     <v-btn variant="text" color="orange"> Home </v-btn>
     <v-btn variant="text" class="account"> Shop </v-btn>
     <v-btn variant="text" class="account"> Drinks </v-btn>
+    <v-btn variant="text" class="account"> Specials </v-btn>
     <v-btn variant="text" class="account"> Blog </v-btn>
     <v-btn variant="text" class="account"> Contact US </v-btn>
-    <v-btn variant="text" class="account"> Update To Pro </v-btn>
     <v-spacer></v-spacer>
     <v-btn
       density="comfortable"
@@ -79,8 +78,8 @@
       class="phone mr-2"
     ></v-btn>
     <div>
-      <span class="text-caption">Call To</span><br />
-      <span class="text-grey text-caption mr-2">1800-231-124</span>
+      <span class="text-caption">Order Now!!</span><br />
+      <span class="text-grey text-caption mr-2">+27 72 461 6904</span>
     </div>
   </v-app-bar>
 </template>
