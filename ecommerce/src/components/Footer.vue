@@ -18,7 +18,6 @@
     <span class="text-caption">Twitter</span><br>
     <span class="text-caption">Whatsapp</span><br>
     <span class="text-caption">Instagram</span><br>
-    
     <span class="text-caption">Youtube</span><br>
   </v-col>
   <v-col col="12" sm="3">
