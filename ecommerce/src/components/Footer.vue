@@ -19,7 +19,6 @@
     <span class="text-caption">Twitter</span><br>
     <span class="text-caption">Whatsapp</span><br>
     <span class="text-caption">Instagram</span><br>
-   
   </v-col>
   <v-col col="12" sm="3">
     <h4 class="mt-2">More About Store</h4>
