@@ -277,7 +277,7 @@
                     <v-avatar variant="outlined" color="white" class="mt-2">
                       <v-img src="/20.jpg" alt="John"></v-img>
                     </v-avatar>
-                    <h5 class="text-grey mt-3">Sabina</h5>
+                    <h5 class="text-grey mt-3"></h5>
                     <p class="text-grey mt-2 text-caption">
                       Vivamus arcu feils bibendum ut tristique et egestas . eu
                       sem integer vitae justoe eget magna fermentum
