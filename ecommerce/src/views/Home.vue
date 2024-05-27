@@ -299,7 +299,7 @@
                     <v-img src="/40.jpg" alt="pi" width="200"></v-img>
                   </div>
                   <h5 class="text-grey mt-3">Purus non enim praesent</h5>
-                  <p class="text-grey mt-2 text-caption">July 30, 2024</p>
+                  <p class="text-grey mt-2 text-caption">July 31, 2024</p>
                 </v-card>
               </v-col>
             </v-row>
