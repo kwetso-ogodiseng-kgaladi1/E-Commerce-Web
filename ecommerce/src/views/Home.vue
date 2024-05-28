@@ -288,7 +288,7 @@
               <v-col cols="12" sm="12">
                 <v-card class="co pa-2">
                   <div class="float-sm-left mb-4">
-                    <span class="ml-4 text-white">Latest News </span>
+                    <span class="ml-4 text-white">LatestNews </span>
                     <v-icon
                       icon="mdi mdi-chevron-right-circle"
                       class="ml-6"
